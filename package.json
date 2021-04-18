@@ -1,0 +1,21 @@
+{
+    "name": "@glen-84/tsconfig",
+    "version": "1.0.0",
+    "description": "A shareable TypeScript config.",
+    "author": "Glen Ainscow",
+    "main": "tsconfig.json",
+    "files": [
+        "tsconfig.json"
+    ],
+    "peerDependencies": {
+        "typescript": "^4.2.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glen-84/tsconfig.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "license": "MIT"
+}
