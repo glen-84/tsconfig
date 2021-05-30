@@ -9,6 +9,7 @@
         "importsNotUsedAsValues": "error",
         "incremental": true,
         "newLine": "LF",
+        "noImplicitOverride": true,
         "noImplicitReturns": true,
         "noPropertyAccessFromIndexSignature": true,
         "noUnusedLocals": true,
